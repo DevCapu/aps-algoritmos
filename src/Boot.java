@@ -66,7 +66,6 @@ public class Boot {
         return arraysGerados;
     }
 
-//
 
     public static void heapSort(int arr[]) {
         int n = arr.length;
